@@ -10,3 +10,4 @@ The assistant starts running as background service as soon as the user logs into
 * Do complex calculations with Voice Calculator.
 * Play music.
 * Connect to WIFI.
+* File Explorer.
